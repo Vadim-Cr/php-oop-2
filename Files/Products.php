@@ -4,9 +4,9 @@ class Product {
     private $name;
     private $price;
     private $description;
-    private $category1;
+    private $category;
 
-    public function __construct($name, $price, $description, PetCategory $category1) {
+    public function __construct($name, $price, $description, PetCategory $category) {
         $this->name = $name;
         $this->price = $price;
         $this->description = $description;

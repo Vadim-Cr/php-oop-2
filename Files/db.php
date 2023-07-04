@@ -54,8 +54,8 @@ $bedDescriptions = [
 
 
 // * WHICH PET IT IS- DOG OR CAT
-$categoryDog = new PetCategory ("Dog", "Only K9s, AKA man's best friend");
-$categoryCat = new PetCategory ("Cat", "Only worshiped beings, AKA woman's best companion");
+$categoryDog = new PetCategory ("Cane", "Only K9s, AKA man's best friend");
+$categoryCat = new PetCategory ("Gatto", "Only worshiped beings, AKA woman's best companion");
 
 // * FOR LOOP FOR FOOD
 $productFood = [];

@@ -12,6 +12,13 @@
     <title>Document</title>
 </head>
 <body>
+
+<h3>
+    <?php
+        echo $Product -> getName();
+    ?>
+</h3>
+
     
 </body>
 </html>

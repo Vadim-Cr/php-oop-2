@@ -84,13 +84,13 @@ $productBed[] = new Product($bedsProducers[array_rand($bedsProducers)], rand(0.5
 
 
 
-var_dump($productFood);
+// var_dump($productFood);
 
-echo "<br>------------------------<br>";
+// echo "<br>------------------------<br>";
 
-var_dump($productToy);
+// var_dump($productToy);
 
-echo "<br>------------------------<br>";
+// echo "<br>------------------------<br>";
 
-var_dump($productBed);
+// var_dump($productBed);
 ?>
